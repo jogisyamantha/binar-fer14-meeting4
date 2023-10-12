@@ -1,5 +1,5 @@
 
-/* CSS JOGI */
+/* START JOGI */
 .container-produk {
     max-width: 372px;
     height: 100%;
@@ -30,6 +30,8 @@
     display: flex;
     flex-direction: column;
     background-color: white;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
 }
 
 .cp-des {
@@ -72,4 +74,4 @@
     color: rgb(0 45 180/var(--tw-text-opacity));
 }
 
-/* CSS JOGI */
+/* END JOGI */
